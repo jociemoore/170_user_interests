@@ -1,3 +1,3 @@
 # User Interests Application
 
-This small Sinitra application displays users and their interests. I used this project to practice loading user data from a YAML file and dynamically changing the view accordingly.
+This small Sinatra application displays users' interests and dynamically changes the view by loading the selected user's data from a YAML file.
